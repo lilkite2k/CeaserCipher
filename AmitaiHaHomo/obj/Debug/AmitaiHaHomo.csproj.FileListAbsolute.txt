@@ -1,0 +1,14 @@
+D:\repos\AmitaiHaHomo\bin\Debug\AmitaiHaHomo.exe.config
+D:\repos\AmitaiHaHomo\bin\Debug\AmitaiHaHomo.exe
+D:\repos\AmitaiHaHomo\bin\Debug\AmitaiHaHomo.pdb
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.csproj.AssemblyReference.cache
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.csproj.SuggestedBindingRedirects.cache
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.Properties.Resources.resources
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.csproj.GenerateResource.cache
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.csproj.CoreCompileInputs.cache
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.exe
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.pdb
+D:\repos\AmitaiHaHomo\bin\Debug\NetSpell.SpellChecker.dll
+D:\repos\AmitaiHaHomo\bin\Debug\NetSpell.SpellChecker.xml
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.csproj.CopyComplete
+D:\repos\AmitaiHaHomo\obj\Debug\AmitaiHaHomo.Form1.resources
